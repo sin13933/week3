@@ -26,6 +26,7 @@ public class StudentDetail {
         list[1]=s2;
         System.out.println(list[0].getName() + list[0].getAge());
         System.out.println(list[1].getName() + list[1].getAge());
+        System.out.println("Hello");
     }
     
 }
